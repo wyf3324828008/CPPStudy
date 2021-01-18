@@ -2,5 +2,5 @@
 
 void main() {
 	printf_s("厘価!");
-	//込込込込
+	int c = 4; int e = 5;
 }
